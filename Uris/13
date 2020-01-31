@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Category", 
+      "value": "Commemordate"
+    },
+    {
+      "trait_type": "Classification", 
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Occasion", 
+      "value": "Birthday"
+    },
+    {
+      "trait_type": "Theme", 
+      "value": "CryptoKitties 2nd"
+    },
+    {
+      "trait_type": "Variation", 
+      "value": "#1744825"
+    }
+  ], 
+  "description": "Block Dates celebrates the 2nd birthday of CryptoKitties with our preview release. Happy Birthday CryptoKitties!", 
+  "image": "https://block-dates.s3.amazonaws.com/api/images/1744825.png",
+  "name": "Happy Birthday CryptoKitties!"
+}
